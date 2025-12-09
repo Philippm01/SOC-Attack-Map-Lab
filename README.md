@@ -2,10 +2,11 @@
 
 ## Overview
 
-This project demonstrates the end-to-end deployment and monitoring of a honeypot system in a cloud environment, leveraging Microsoft Azure and Sentinel SIEM. The goal was to simulate real-world attack scenarios, collect and enrich security event data, and visualize attack patterns geographically.
+
+This project demonstrates the end-to-end deployment and monitoring of a honeypot system in a cloud environment, leveraging Microsoft Azure and Sentinel SIEM. Within just a few hours of deploying the honeypot server, over 2,190 attack attempts were recorded, highlighting the prevalence and speed of automated attacks targeting exposed cloud resources. The project simulates real-world attack scenarios, collects and enriches security event data, and visualizes attack patterns geographically.
 
 <p align="center">
-  <img src="./map.png" alt="Attack Map" width="600" />
+  <img src="./map.png" alt="Attack Map" width="1000" />
 </p>
 
 ## Key Parts
